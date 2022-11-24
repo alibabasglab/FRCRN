@@ -1,6 +1,6 @@
 # FRCRN: Boosting Feature Representation using Frequency Recurrence for Monaural Speech Enhancement
 
-This repository provides information for **FRCRN** speech enhancement model. It can be retrained and evaluated based on <a href="https://modelscope.cn/models/damo/speech_frcrn_ans_cirm_16k/summary">ModelScope open source platform</a>. The users can either go to the <a href="https://modelscope.cn/models/damo/speech_frcrn_ans_cirm_16k/summary">ModelScope website</a> or follow the steps given below to downloand and install the full pytorch version of FRCRN program。 The main model structure was proposed in <a href="https://arxiv.org/abs/2206.07293">FRCRN: Boosting Feature Representation using Frequency Recurrence for Monaural Speech Enhancement</a>. 
+This repository provides information for **FRCRN** speech enhancement model. It can be retrained and evaluated based on <a href="https://modelscope.cn/models/damo/speech_frcrn_ans_cirm_16k/summary">ModelScope open source platform</a>. The users can either go to the <a href="https://modelscope.cn/models/damo/speech_frcrn_ans_cirm_16k/summary">ModelScope website</a> or follow the steps given below to downloand and install the full pytorch version of FRCRN program. The main model structure was proposed in <a href="https://arxiv.org/abs/2206.07293">FRCRN: Boosting Feature Representation using Frequency Recurrence for Monaural Speech Enhancement</a>. 
 
 ## Model Description
 
