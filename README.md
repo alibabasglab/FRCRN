@@ -148,7 +148,7 @@ print(eval_res['avg_sisnr'])
 #### Evaluation Results
 Compared with other SOTA models on the DNS Challenge 2020 official non-blind test set (no reverb), the results are as follows:
 
-![table](https://user-images.githubusercontent.com/62317780/203712803-175a8fad-35d7-4c70-81b3-4b60f52bddd4.png)
+![B08384A2-FF54-40F8-900B-84E07D78C785](https://user-images.githubusercontent.com/62317780/203896404-0bcadcbd-8556-4019-95a2-0c25b8748bf3.png)
 
 Measurement Description
 
